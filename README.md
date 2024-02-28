@@ -17,8 +17,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/responsive-recipe-page-Z0CEdVe2qq](https://www.frontendmentor.io/solutions/responsive-recipe-page-Z0CEdVe2qq)
-- Live Site URL: [https://rugarcia25.github.io/recipe-page-main/](https://rugarcia25.github.io/recipe-page-main/)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-social-link-profile-component-UMTWyJJlLl](https://www.frontendmentor.io/solutions/responsive-social-link-profile-component-UMTWyJJlLl)
+- Live Site URL: [https://rugarcia25.github.io/social-links-profile-main/](https://rugarcia25.github.io/social-links-profile-main/)
 
 ### Built with
 
